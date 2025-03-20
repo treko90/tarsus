@@ -6,7 +6,8 @@ https://www.biorxiv.org/content/10.1101/2025.02.17.638604v1
 
 ![image](https://github.com/user-attachments/assets/fb7a3d04-3eaf-4490-a01b-6c8ce580588a)
 
-The pipeline processes raw mass spectrometric data by three open-source tools and outputs validated list of single amino acid substitutions (SAAV) in comparison to the reference database. Validation step is computationally intensive and requiries parallel processing on computational cluster. The scripts in this repository are adapted to our cluster environment and will necessitate a custom modifications. The purpose is to exemplify the usage of open-source software packages in the unified pipeline and provide a guidance in pipelines adoption in different environment.
+
+The pipeline processes raw mass spectrometric data by three open-source tools and outputs validated list of single amino acid substitutions (SAAV) in comparison to the reference database. Validation step is computationally intensive and requiries parallel processing on computational cluster. The scripts in this repository are adapted to our cluster environment and will necessitate a custom modifications towards your system. The purpose is to exemplify the usage of open-source software packages in the unified pipeline and provide a guidance in pipelines adoption in different environment.
 
 **Software requirements:**
 
