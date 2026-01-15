@@ -4,7 +4,6 @@ This is the overview of the pipeline described in
 Tretyachenko, V., Leiman, T., Dahan, O., Asraf, O., Dahary, D., & Pilpel, Y. T. (2025). Encoded and non-genetic alternative protein variants expand human functional proteome. bioRxiv, 2025-02.
 https://www.biorxiv.org/content/10.1101/2025.02.17.638604v1
 
-![image](https://github.com/user-attachments/assets/fb7a3d04-3eaf-4490-a01b-6c8ce580588a)
 
 
 The pipeline processes raw mass spectrometric data by three open-source tools and outputs validated list of single amino acid substitutions (SAAV) in comparison to the reference database. Validation step is computationally intensive and requiries parallel processing on computational cluster. The scripts in this repository are adapted to our cluster environment and will necessitate a custom modifications towards your system. The simple scripts provided here serve as a guidance for pipeline adoption towards different environments. The purpose is to exemplify the usage of open-source software packages into the unified process.
